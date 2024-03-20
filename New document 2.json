@@ -1,0 +1,999 @@
+{
+    "data": [
+        {
+            "id": 12,
+            "name": "California Baptist University",
+            "user_name": "california_baptist_university",
+            "avatar": "https://bk.arrowster.com/storage/university/images/c7b504ae397a56ae845d6b24b8a2b091.png",
+            "ranking": 30,
+            "description": "California Baptist University is a private, Christian institution. With over 11,000 students, the 160-acre campus in Riverside, CA, features 10 schools and colleges that offer 80 bachelor\u00e2\u20ac\u2122s degrees with Christ-centered curriculum in majors ranging...",
+            "is_friend": false,
+            "capex_data": {
+                "id": 207,
+                "key": "California Baptist University",
+                "value": {
+                    "image": "public/university/images/California Baptist University.jpg",
+                    "address": {
+                        "state": "California",
+                        "country": "United States"
+                    },
+                    "collegeName": "California Baptist University",
+                    "description": "California Baptist University is a private, Christian institution. With over 11,000 students, the 160-acre campus in Riverside, CA, features 10 schools and colleges that offer 80 bachelor\u00e2\u20ac\u2122s degrees with Christ-centered curriculum in majors ranging...",
+                    "campusSetting": "Major city",
+                    "acceptanceRate": "80%",
+                    "averageNetPrice": "$27,883",
+                    "avgActComposite": "21",
+                    "avgSatComposite": "1096",
+                    "profile_details": {
+                        "address": "Riverside, CA, USA",
+                        "cover_image": "public/university/cover/images/c7b504ae397a56ae845d6b24b8a2b091.jpg?itok=0elKKsgU",
+                        "description": "California Baptist University is a private, Christian institution. With over 11,000 students, the 160-acre campus in Riverside, CA, features 10 schools and colleges that offer 80 bachelor\u00e2\u20ac\u2122s degrees with Christ-centered curriculum in majors ranging from Aviation Flight to Worship Arts. CBU\u00e2\u20ac\u2122s campus also provides a number of ways for students to worship, including Discipleship Ministries, Men\u00e2\u20ac\u2122s Ministries, Women\u00e2\u20ac\u2122s Ministries, and both local and global service opportunities. Full-time CBU students are required to attend chapel a minimum of 15 times a semester. Cal Baptist features more than 70 student-led organizations, a Career Center, exceptional recreation facility and offers 26 bachelor\u00e2\u20ac\u2122s degrees online, as well.",
+                        "academic_stats": [
+                            "Doctorate",
+                            "11,489",
+                            "8,252"
+                        ],
+                        "key_admission_stats": {
+                            "get_housing": [
+                                "<div><div class=\"gauge\"> <svg class=\"gauge-svg\" viewBox=\"0 0 300 200\" height=\"100%\" width=\"100%\" data-value=\"41\"> <path stroke=\"#DCE0FF\" d=\"M41 149.4a77 77 0 1 1 217.93 0\" fill=\"none\" stroke-linecap=\"round\" /> <path class=\"meter\" stroke=\"#5265FF\" d=\"M41 149.5a77 77 0 1 1 217.93 0\" fill=\"none\" stroke-dasharray=\"350\" stroke-dashoffset=\"350\" stroke-linecap=\"round\" /> </svg><div class=\"gauge-min\">0</div><div class=\"gauge-max\">100</div><div class=\"gauge-rate\"><div content=\"41\" class=\"field field--name-field-percent-undergrads-campus field--type-integer field--label-hidden field__item\">41%</div></div><div class=\"gauge-rate-label\"> Undergrads Living on Campus</div></div></div><div><div class=\"data-set data-set--centered\"><div class=\"data-label\">On-campus living required of freshman</div><div class=\"data-medium\"><div class=\"field field--name-field-freshman-campus-living-req field--type-boolean field--label-hidden field__item\">No</div></div></div></div>"
+                            ],
+                            "campus_safety": [
+                                "<div><div class=\"data-set data-set--centered\"><div class=\"data-label\">24-HR security patrol</div> <img src=\"/themes/custom/fingerprint/images/icons/yesno-yes.svg\" alt=\"24-HR security patrol is checked\"><div class=\"field field--name-field-has-24-hour-security field--type-boolean field--label-hidden field__item\">Yes</div></div></div><div><div class=\"data-set data-set--centered\"><div class=\"data-label\">Campus emergency phones</div> <img src=\"/themes/custom/fingerprint/images/icons/yesno-yes.svg\" alt=\"Campus emergency phones is checked\"><div class=\"field field--name-field-has-campus-emergency-phone field--type-boolean field--label-hidden field__item\">Yes</div></div></div>"
+                            ],
+                            "get_athletics": [
+                                "<div><div class=\"data-set data-set--bordered\"><div class=\"data-label\">Divisional Sports Nickname</div><div class=\"data-medium\"><div class=\"field field--name-field-athletics-nickname field--type-string field--label-hidden field__item\">Lancers</div></div></div><div class=\"data-set data-set--bordered\"><div class=\"data-label\">School Colors</div><div class=\"data-medium\"><div class=\"field field--name-field-school-colors-v2 field--type-string field--label-hidden field__item\">Blue and Gold</div></div></div></div><div><div class=\"data-set data-set--centered\"><div class=\"data-label\">Varsity Athletics Association</div><div class=\"data-medium\"><div class=\"field field--name-field-varsity-athletics-assoc field--type-entity-reference field--label-hidden field__item\">NCAA</div></div></div></div><div><div class=\"data-set data-set--centered\"><div class=\"data-label\">Varsity Athletics Conference Primary</div><div class=\"data-medium\"><div class=\"field field--name-field-varsity-athletics-conferen field--type-string field--label-hidden field__item\">Not applicable</div></div></div></div>"
+                            ],
+                            "student_loans": {
+                                "loan_description": "Loans to students - Any monies that must be repaid to the lending institution for which the student is the designated borrower. Includes all Title IV subsidized and unsubsidized loans and all institutionally- and privately-sponsored loans. Does not include PLUS and other loans made directly to parents.",
+                                "loan_per_year_amount": "$8,696",
+                                "loan_per_year_percentage": "67%",
+                                "avg_debt_at_graduation_amount": "$21,250",
+                                "avg_debt_at_graduation_description": "The median federal debt of undergraduate borrowers who graduated. This figure includes only federal loans; it excludes private student loans and Parent PLUS loans.",
+                                "median_monthly_loan_payment_amount": "$258",
+                                "median_monthly_loan_payment_description": "Median Monthly Loan Payment The median monthly loan payment for student borrowers who completed, if it were repaid over 10 years at a 5.05% interest rate."
+                            },
+                            "aid_and_grants": {
+                                "need_met": "30%",
+                                "average_federal_grant_aid_per_year": "$5,412",
+                                "student_receiving_grants_percentage": "45%",
+                                "student_receiving_grants_description": "Students Receiving Grants Percent of undergraduate students awarded grant aid. Grant aid includes any grant or scholarship aid awarded, from the federal government, a state or local government, the institution, and other sources known by the institution.",
+                                "average_institution_grant_aid_per_year": "$15,001",
+                                "student_receiving_gift_aid_description": "Students Receiving Gift Aid Percent of undergraduate students awarded federal gift aid. Federal gift aid includes any grant or scholarship aid awarded, from the federal government, a state or local government, the institution, and other sources known by the institution.",
+                                "student_receiving_gift_avg_aid_per_year": "$20,526",
+                                "student_receiving_gift_avg_aid_per_year_percentage": "45%"
+                            },
+                            "campus_setting": "Major city",
+                            "acceptance_rate": "64%",
+                            "after_graduation": [
+                                "<div><div class=\"data-label\">Top 5 Cities</div><div class=\"data-label college-grad-list\"><div class=\"field field--name-field-top-5-cities field--type-entity-reference field--label-hidden field__items\"><div class=\"field__item\">Los Angeles</div><div class=\"field__item\">Orange</div><div class=\"field__item\">San Diego</div><div class=\"field__item\">San Francisco</div><div class=\"field__item\">Sacramento</div></div></div></div><div><div class=\"data-label\">Average Salary</div><div class=\"text--body-2\">6 years after graduation</div><div class=\"data-big\"><div content=\"47500\" class=\"field field--name-field-avg-salary-after-6-years field--type-integer field--label-hidden field__item\">$47,500</div></div></div>"
+                            ],
+                            "institution_type": "Private",
+                            "key_campus_stats": {
+                                "male_student": "37%",
+                                "size_of_town": "Size of TownMajor cityLGBTQIA Student Resource Groups NoOn Campus Women's Center No",
+                                "female_student": "63%",
+                                "student_organization": "67",
+                                "male_student_from_usa": "US National: 44%",
+                                "on_campus_women_center": "On Campus Women's Center No",
+                                "female_student_from_usa": "US National: 56%",
+                                "lgbt_student_resource_group": "Major city"
+                            },
+                            "financial_situation": "This school may consider an applicant\u00e2\u20ac\u2122s financial situation when deciding admission",
+                            "level_of_institution": "4 Year",
+                            "tuition_cost_and_aid": {
+                                "in_state": {
+                                    "fee": "$38,058",
+                                    "description": "In-State Tuition In-state tuition is the tuition charged by institutions to those students who meet the state's or institution's residency requirements. In-district tuition is the tuition charged by the institution to those students residing in the locality in which they attend school and may be a lower rate than in-state tuition if offered by the institution."
+                                },
+                                "out_state": {
+                                    "fee": "$38,058",
+                                    "description": "Out-of-State Tuition Out-of-state tuition is the tuition charged by institutions to those students who do not meet the state\u00e2\u20ac\u2122s or institution\u00e2\u20ac\u2122s residency requirements. Out-of-district tuition is the tuition charged by the institution to those students not residing in the locality in which they attend school."
+                                },
+                                "avg_net_price": "$27,883",
+                                "additional_cost": {
+                                    "description": "Room and Board The weighted average for room and board and other expenses is generated as follows: (amount for on-campus room, board and other expenses * # of students living on-campus. + amount for off-campus (with family) room, board and other expenses * # of students living off-campus with family + amount for off-campus (not with family) room, board and other expenses * # of students living off-campus not with family) divided by the total # of students. Students whose living arrangements are unknown are excluded from the calculation. For some institutions the # of students by living arrangement will be known, but dollar amounts will not be known. In this case the # of students with no corresponding dollar amount will be excluded from the denominator.",
+                                    "roam_and_board": "$11,210",
+                                    "book_and_suupliers": "$1152"
+                                }
+                            },
+                            "admission_requirements": {
+                                "act": false,
+                                "sat": false,
+                                "transcript": true
+                            },
+                            "admitted_student_stats": {
+                                "link": "https://www.appily.com/colleges/california-baptist-university/admissions",
+                                "submitting-act": "24%",
+                                "submitting-sat": "92%",
+                                "in-state-students": "92%",
+                                "average-sat-composite": "1096",
+                                "out-of-state-students": "10%"
+                            }
+                        }
+                    },
+                    "numberOfStudents": "11,317",
+                    "typeOfInstitution": "Private",
+                    "levelOfInstitution": "4 Year"
+                },
+                "created_at": "2023-10-26T20:22:10.000000Z",
+                "updated_at": "2024-02-15T18:58:50.000000Z"
+            },
+            "address": [
+                {
+                    "id": 12,
+                    "user_id": 12,
+                    "country_id": 182,
+                    "state_id": 4619,
+                    "city_id": 107158,
+                    "phone_number": "8772283615",
+                    "lat": "33.929321",
+                    "lng": "-117.425619",
+                    "additional_data": null,
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:31.000000Z",
+                    "updated_at": "2023-11-01T18:52:24.000000Z",
+                    "country": {
+                        "id": 182,
+                        "region_id": 4,
+                        "title": "United States",
+                        "code": "USA",
+                        "country_code": "US",
+                        "currency_symbol": null,
+                        "slug": "united states",
+                        "flag": "https://restcountries.eu/data/usa.svg",
+                        "deleted_at": null,
+                        "created_at": "2019-05-20T04:27:48.000000Z",
+                        "updated_at": "2019-05-20T04:27:48.000000Z"
+                    },
+                    "city": {
+                        "id": 107158,
+                        "region_id": 4,
+                        "country_id": 182,
+                        "title": "Riverside",
+                        "deleted_at": null,
+                        "created_at": "2021-08-25T21:28:01.000000Z",
+                        "updated_at": "2021-08-25T21:28:01.000000Z"
+                    },
+                    "state": {
+                        "id": 4619,
+                        "country_id": 182,
+                        "title": "California",
+                        "code": "CAL",
+                        "lat": "36.77826100",
+                        "lng": "-119.41793240",
+                        "deleted_at": null,
+                        "created_at": "2021-08-25T21:21:36.000000Z",
+                        "updated_at": "2023-11-21T18:20:58.000000Z"
+                    }
+                }
+            ],
+            "programs": [
+                {
+                    "id": 108,
+                    "title": "Environmental Science",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 103,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Bachelor's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:29.000000Z",
+                    "updated_at": "2024-02-19T16:37:25.000000Z",
+                    "program_title": {
+                        "id": 103,
+                        "title": "Environmental Studies",
+                        "super_meta_category_id": 2,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:35.000000Z",
+                        "updated_at": "2023-08-08T10:12:35.000000Z",
+                        "super_meta_category": {
+                            "id": 2,
+                            "title": "Sciences",
+                            "deleted_at": null,
+                            "created_at": "2023-08-07T09:47:04.000000Z",
+                            "updated_at": "2023-08-07T09:47:04.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 109,
+                    "title": "Architecture",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 93,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Master's degree, Bachelor's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:29.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 93,
+                        "title": "Constitutional Law",
+                        "super_meta_category_id": 427,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:29.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 427,
+                            "title": "Law & Legal Studies",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 110,
+                    "title": "Educational Leadership and Administration, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 94,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Master's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:29.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 94,
+                        "title": "Animation Film Making",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:29.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 111,
+                    "title": "Higher Education/Higher Education Administration",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 35,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Master's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:29.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 35,
+                        "title": "Healthcare Management",
+                        "super_meta_category_id": 1,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:00:42.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 1,
+                            "title": "Commerce & Management",
+                            "deleted_at": null,
+                            "created_at": "2023-08-06T08:56:07.000000Z",
+                            "updated_at": "2023-08-06T08:56:07.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 112,
+                    "title": "Engineering, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 95,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Bachelor's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:30.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 95,
+                        "title": "Podcast and Vodcast",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:31.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 113,
+                    "title": "Bioengineering and Biomedical Engineering",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 96,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Bachelor's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:30.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 96,
+                        "title": "Petroleum Engineering",
+                        "super_meta_category_id": 5,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:31.000000Z",
+                        "updated_at": "2023-08-08T10:12:31.000000Z",
+                        "super_meta_category": {
+                            "id": 5,
+                            "title": "Engineering",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:00:39.000000Z",
+                            "updated_at": "2023-08-08T09:00:39.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 114,
+                    "title": "Chemical Engineering",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 97,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Bachelor's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:30.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 97,
+                        "title": "Electronics and Communication Engineering",
+                        "super_meta_category_id": 5,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:31.000000Z",
+                        "updated_at": "2023-08-08T10:12:31.000000Z",
+                        "super_meta_category": {
+                            "id": 5,
+                            "title": "Engineering",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:00:39.000000Z",
+                            "updated_at": "2023-08-08T09:00:39.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 115,
+                    "title": "Civil Engineering, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 98,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Master's degree, Bachelor's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:30.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 98,
+                        "title": "Operation Theatre",
+                        "super_meta_category_id": 6,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:32.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 6,
+                            "title": "Medicine & Healthcare",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:00:42.000000Z",
+                            "updated_at": "2023-08-08T09:00:42.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 116,
+                    "title": "Computer Engineering, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 99,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Bachelor's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:30.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 99,
+                        "title": "Geoinformatics",
+                        "super_meta_category_id": 5,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:33.000000Z",
+                        "updated_at": "2023-08-08T10:12:33.000000Z",
+                        "super_meta_category": {
+                            "id": 5,
+                            "title": "Engineering",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:00:39.000000Z",
+                            "updated_at": "2023-08-08T09:00:39.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 117,
+                    "title": "Sports Studies",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 100,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Master's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:31.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 100,
+                        "title": "Tool and Die",
+                        "super_meta_category_id": 5,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:33.000000Z",
+                        "updated_at": "2023-11-23T18:42:39.000000Z",
+                        "super_meta_category": {
+                            "id": 5,
+                            "title": "Engineering",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:00:39.000000Z",
+                            "updated_at": "2023-08-08T09:00:39.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 118,
+                    "title": "Forensic Psychology",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 101,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Master's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:31.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 101,
+                        "title": "Cosmetics",
+                        "super_meta_category_id": 6,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:34.000000Z",
+                        "updated_at": "2023-11-23T18:42:39.000000Z",
+                        "super_meta_category": {
+                            "id": 6,
+                            "title": "Medicine & Healthcare",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:00:42.000000Z",
+                            "updated_at": "2023-08-08T09:00:42.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 119,
+                    "title": "Air Transportation, Other",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 102,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": "Bachelor's degree",
+                    "deleted_at": null,
+                    "created_at": "2023-08-09T09:25:31.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 102,
+                        "title": "Air and Space Education",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:12:34.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11294,
+                    "title": "Business/Corporate Communications",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 81,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 81,
+                        "title": "Communications",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:31:48.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11295,
+                    "title": "Human Resources Management/Personnel Administration, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 58,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 58,
+                        "title": "Human Resource Management",
+                        "super_meta_category_id": 1,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:03:37.000000Z",
+                        "updated_at": "2023-08-08T09:03:37.000000Z",
+                        "super_meta_category": {
+                            "id": 1,
+                            "title": "Commerce & Management",
+                            "deleted_at": null,
+                            "created_at": "2023-08-06T08:56:07.000000Z",
+                            "updated_at": "2023-08-06T08:56:07.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11296,
+                    "title": "Organizational Behavior Studies",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 127,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 127,
+                        "title": "Behavioral Studies",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T10:13:05.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11297,
+                    "title": "Management Information Systems, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 82,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 82,
+                        "title": "Management",
+                        "super_meta_category_id": 1,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:31:49.000000Z",
+                        "updated_at": "2023-08-08T09:31:49.000000Z",
+                        "super_meta_category": {
+                            "id": 1,
+                            "title": "Commerce & Management",
+                            "deleted_at": null,
+                            "created_at": "2023-08-06T08:56:07.000000Z",
+                            "updated_at": "2023-08-06T08:56:07.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11298,
+                    "title": "Marketing/Marketing Management, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 1,
+                    "program_title_id": 5,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 5,
+                        "title": "Marketing",
+                        "super_meta_category_id": 1,
+                        "deleted_at": null,
+                        "created_at": "2023-08-07T10:17:09.000000Z",
+                        "updated_at": "2023-12-09T10:23:41.000000Z",
+                        "super_meta_category": {
+                            "id": 1,
+                            "title": "Commerce & Management",
+                            "deleted_at": null,
+                            "created_at": "2023-08-06T08:56:07.000000Z",
+                            "updated_at": "2023-08-06T08:56:07.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11299,
+                    "title": "History, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 88,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 88,
+                        "title": "History",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:31:52.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11300,
+                    "title": "Graphic Design",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 61,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 61,
+                        "title": "Graphics Design",
+                        "super_meta_category_id": 7,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:26:44.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 7,
+                            "title": "Design & Architecture",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:03:31.000000Z",
+                            "updated_at": "2023-08-08T09:03:31.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11301,
+                    "title": "Art/Art Studies, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 64,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 64,
+                        "title": "Art Studies",
+                        "super_meta_category_id": 7,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:26:45.000000Z",
+                        "updated_at": "2023-08-08T09:26:45.000000Z",
+                        "super_meta_category": {
+                            "id": 7,
+                            "title": "Design & Architecture",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:03:31.000000Z",
+                            "updated_at": "2023-08-08T09:03:31.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11302,
+                    "title": "Fine/Studio Arts, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 56,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 56,
+                        "title": "Visual Arts",
+                        "super_meta_category_id": 7,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:03:36.000000Z",
+                        "updated_at": "2023-12-09T10:23:44.000000Z",
+                        "super_meta_category": {
+                            "id": 7,
+                            "title": "Design & Architecture",
+                            "deleted_at": null,
+                            "created_at": "2023-08-08T09:03:31.000000Z",
+                            "updated_at": "2023-08-08T09:03:31.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11303,
+                    "title": "Art History, Criticism and Conservation",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 407,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 407,
+                        "title": "Art History",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-10-16T20:35:54.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11304,
+                    "title": "Music, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 65,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 65,
+                        "title": "Music",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:26:45.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11305,
+                    "title": "Music Performance, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 65,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 65,
+                        "title": "Music",
+                        "super_meta_category_id": 426,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:26:45.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 426,
+                            "title": "Humanities & Arts",
+                            "deleted_at": null,
+                            "created_at": "2023-12-29T14:13:09.000000Z",
+                            "updated_at": "2023-12-29T14:13:09.000000Z"
+                        }
+                    }
+                },
+                {
+                    "id": 11306,
+                    "title": "Health Services/Allied Health/Health Sciences, General",
+                    "user_id": 12,
+                    "school_ranking": 30,
+                    "education_level_category_id": 2,
+                    "program_title_id": 35,
+                    "fee": 34918,
+                    "in_state_fee": 34918,
+                    "in_country_fee": 34918,
+                    "currency_id": 2,
+                    "admission_date": null,
+                    "process_days": null,
+                    "description": null,
+                    "deleted_at": null,
+                    "created_at": "2023-12-09T10:24:28.000000Z",
+                    "updated_at": "2024-01-30T16:30:08.000000Z",
+                    "program_title": {
+                        "id": 35,
+                        "title": "Healthcare Management",
+                        "super_meta_category_id": 1,
+                        "deleted_at": null,
+                        "created_at": "2023-08-08T09:00:42.000000Z",
+                        "updated_at": "2023-12-29T14:13:09.000000Z",
+                        "super_meta_category": {
+                            "id": 1,
+                            "title": "Commerce & Management",
+                            "deleted_at": null,
+                            "created_at": "2023-08-06T08:56:07.000000Z",
+                            "updated_at": "2023-08-06T08:56:07.000000Z"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
